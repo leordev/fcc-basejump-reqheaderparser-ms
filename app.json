@@ -1,0 +1,6 @@
+{
+  "name": "FCC Project WHO-AM-I",
+  "description": "Simple server to retrieve visitor info (this file exists only for heroku)",
+  "image": "heroku/clojure",
+  "addons": [ ]
+}

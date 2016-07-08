@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/whoami.jar clojure.main -m clojure-getting-started.web
