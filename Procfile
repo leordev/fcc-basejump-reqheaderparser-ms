@@ -1,1 +1,1 @@
-web: java $JVM_OPTS -cp target/whoami.jar
+web: java -jar $JVM_OPTS target/whoami.jar
