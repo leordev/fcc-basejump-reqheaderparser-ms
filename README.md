@@ -2,7 +2,9 @@
 
 FreeCodeCamp API Exercise: Who Am I
 
-Made by Clojure! :D
+[You can check the Heroku Demo App here!](https://vast-scrubland-46215.herokuapp.com/)
+
+Proudly powered by Clojure! :D
 
 ## Installation
 
