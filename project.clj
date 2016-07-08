@@ -7,8 +7,8 @@
                  [http-kit "2.2.0-beta1"]
                  [cheshire "5.6.3"]
                  [environ "1.0.3"]]
-  :main ^:skip-aot whoami.core
-  :target-path "target/%s"
+  ;:main ^:skip-aot whoami.core
+  ;:target-path "target/%s"
   :min-lein-version "2.0.0"
   :plugins [[environ/environ.lein "0.3.1"]]
   :hooks [environ.leiningen.hooks]

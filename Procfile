@@ -1,1 +1,1 @@
-web: java -jar $JVM_OPTS target/whoami.jar
+web: java $JVM_OPTS -cp target/whoami.jar clojure.main -m whoami.core
