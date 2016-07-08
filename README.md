@@ -6,9 +6,7 @@ Made by Clojure! :D
 
 ## Installation
 
-I compiled the last version as whoami.jar and it's already prepared to run the server.
-
-If you want to compile, just run the below command:
+Just run the below command to compile the project:
  
     $ lein uberjar
 
